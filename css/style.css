@@ -1,0 +1,112 @@
+header {
+    background-color: black; 
+    color: white; 
+    padding: 400px; 
+    text-align: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 100px;
+    width: 1800px
+}
+ 
+
+ body {width: 1700px;
+
+ }
+
+.titolo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    font-size: 35px;
+
+}
+
+.immagine1 img {
+    width: 550px;
+    height: 550px;
+    display: block;
+
+}
+
+.testo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    font-weight: bolder;
+    padding-left: 500px;
+    padding-top: 300px;
+    font-size: 25px;
+    
+}
+
+.immagine2 img {
+    width: 1000px;  
+    float: right; 
+    margin-right: -580px;
+    margin-top: -660px;
+    display: block;
+}
+
+.testo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    font-weight: bolder;
+    padding-left: 1400px;
+    padding-top: 500px;
+    font-size: 25px;
+    position: absolute;
+   
+}
+
+.immagine3 img {
+    width: 730px; 
+    float: left; 
+    margin-left: 560px;
+    margin-top: 100px;
+    display: block;
+    
+}
+
+.testo3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    font-weight: bolder;
+    padding-left: 500px;
+    padding-top: 1500px;
+    font-size: 25px;
+}
+
+.immagine4 img {
+    width: 700px;  
+    float: right; 
+    margin-right: -450px;
+    margin-top: -635px;
+    display: block;
+
+}
+
+
+footer {
+    min-height: 50px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.testo4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    font-weight: bolder;
+    padding-left: 1150px;
+    padding-top: 500px;
+    font-size: 35px;
+    white-space: nowrap; 
+
+}
+
