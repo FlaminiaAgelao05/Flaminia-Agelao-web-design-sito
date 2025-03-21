@@ -59,6 +59,8 @@ header {
     padding-top: 500px;
     font-size: 25px;
     position: absolute;
+    display: flex;
+    white-space: nowrap;
    
 }
 
@@ -106,7 +108,6 @@ footer {
     padding-left: 1150px;
     padding-top: 500px;
     font-size: 35px;
-    white-space: nowrap; 
+    white-space: nowrap;
 
 }
-
